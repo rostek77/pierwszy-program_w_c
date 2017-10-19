@@ -1,21 +1,18 @@
-Pierwszy program
+<Pierwszy program>
 ================
 
 
->\/*dolacz bibloteke standardowa input-output*/\
->\#include <stdio.h>\
+<\/*dolacz bibloteke standardowa input-output*/\>
+<\#include <stdio.h>\>
+>
+<\/* y=f(x) */\> <\/* main() => 0 */\>
+<\int main()\> <\/*funkcja glowna praoramu , zwraca wartosc calkowita */\>
+<{\ /*miedzy klamrami jest cialo funkcji*/\>
 >
 >
->\/* y=f(x) */\
->\/* main() => 0 */\
+<		\puts("Pierwszy program")\>;<\/*funkcja z bibloteki studio*/\>
 >
->\int main()\  \/*funkcja glowna praoramu , zwraca wartosc calkowita */\
->{\ /*miedzy klamrami jest cialo funkcji*/\
->
->
->		\puts("Pierwszy program")\;\ /*funkcja z bibloteki studio*/\
->
->		\return 0;\ \/*main zwraca wartosc 0 */\
+<		\return 0;\ \/*main zwraca wartosc 0 */\>
 >
 >}
 
