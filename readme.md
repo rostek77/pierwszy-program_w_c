@@ -2,20 +2,20 @@ Pierwszy program
 ================
 
 
->/*doiacz bibloteke standardowa input-output*/
->#include <stdio.h>
+>\/*dolacz bibloteke standardowa input-output*/\
+>\#include <stdio.h>\
 >
 >
->/* y=f(x) */
->/* main() => 0 */
+>\/* y=f(x) */\
+>\/* main() => 0 */\
 >
->int main()   /*funkcja glowna praoramu , zwraca wartosc calkowita */
->{ /*miedzy klamrami jest cialo funkcji*/
+>\int main()\  \/*funkcja glowna praoramu , zwraca wartosc calkowita */\
+>{\ /*miedzy klamrami jest cialo funkcji*/\
 >
 >
->		puts("Pierwszy program"); /*funkcja z bibloteki studio*/
+>		\puts("Pierwszy program")\;\ /*funkcja z bibloteki studio*/\
 >
->		return 0; /*main zwraca wartosc 0 */
+>		\return 0;\ \/*main zwraca wartosc 0 */\
 >
 >}
 
